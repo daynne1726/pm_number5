@@ -1,0 +1,23 @@
+input{
+    width: 70%;
+}
+.container{
+    margin-top: 25%;
+    width: 30%;
+    border: 5px solid pink;
+    border-radius: 15%;
+    background-color: antiquewhite;
+
+}
+#b1{
+    width: 34%;
+    margin-right: 5%;
+    margin-top: 4%;
+    margin-bottom: 15%;
+}
+#b2{
+    width: 34%;
+    margin-left: 5%;
+    margin-top: 4%;
+    margin-bottom: 15%;
+}
